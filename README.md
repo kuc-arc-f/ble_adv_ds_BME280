@@ -12,9 +12,11 @@
 ## thanks
 
 * bme280-esp-idf-i2c
+
 https://github.com/yanbe/bme280-esp-idf-i2c
 
 * BoschSensortec/BME280_driver
+
 https://github.com/BoschSensortec/BME280_driver/tree/cf40d00b0b5139e287b670881c433c0041d98d9f
 
 ***
